@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+.cs-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2em;
+}
+
+.cs-signature {
+  font-family: 'JetBrains Mono', monospace;
+  text-transform: uppercase;
+}

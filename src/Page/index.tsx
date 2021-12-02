@@ -5,6 +5,8 @@ import { StandardFunctionProps } from '../Types'
 import { PageHeader } from './PageHeader'
 import { PageFooter } from './PageFooter'
 
+import './PageStyle.scss'
+
 interface PageProps extends StandardFunctionProps {}
 
 export class Page extends Component<PageProps> {
