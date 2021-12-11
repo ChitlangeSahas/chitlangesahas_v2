@@ -3,10 +3,13 @@
 .cs-header {
   display: flex;
   justify-content: space-between;
-  padding: 2em;
+  //padding: 2em;
+  margin-top: 2.5em;
+  align-items: center;
 }
 
 .cs-signature {
   font-family: 'JetBrains Mono', monospace;
   text-transform: uppercase;
+  margin: 0;
 }
